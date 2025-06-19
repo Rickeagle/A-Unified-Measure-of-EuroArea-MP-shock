@@ -1,0 +1,15 @@
+		(1)	(2)	(3)	(4)
+VARIABLES	LABELS	Does the FED follow the ECB?	brw_2024_num	brw_2024_num	brw_2024_num
+					
+ecb	ecb	0.014	0.011	0.007	0.011
+		(0.102)	(0.102)	(0.101)	(0.101)
+ecb_lag1	ecb_lag1		-0.072	-0.061	-0.064
+			(0.102)	(0.102)	(0.101)
+ecb_lag2	ecb_lag2			0.241**	0.250**
+				(0.102)	(0.101)
+ecb_lag3	ecb_lag3				0.185*
+					(0.101)
+					
+Observations		241	240	239	238
+R-squared		0.000	0.002	0.026	0.039
+Mean dep. var		-0.00408	-0.00410	-0.00413	-0.00420

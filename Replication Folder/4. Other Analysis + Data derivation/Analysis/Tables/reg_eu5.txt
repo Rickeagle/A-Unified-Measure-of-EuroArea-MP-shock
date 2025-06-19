@@ -1,0 +1,9 @@
+		(1)
+VARIABLES	LABELS	Does the ECB follow the FED?
+		
+brw	brw_2024_num	-0.000
+		(0.032)
+		
+Observations		241
+R-squared		0.000
+Mean dep. var		-0.00441

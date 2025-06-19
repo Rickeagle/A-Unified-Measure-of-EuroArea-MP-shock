@@ -1,0 +1,15 @@
+		(1)	(2)
+VARIABLES	LABELS	Do the Factors explain my shock?	ecb_5yr
+			
+ratefactor1_scale	ratefactor1_scale	0.210***	0.159**
+		(0.079)	(0.064)
+conffactor1_scale	conffactor1_scale	0.387***	0.215***
+		(0.078)	(0.063)
+conffactor2_scale	conffactor2_scale	0.343***	0.293***
+		(0.079)	(0.063)
+conffactor3_scale	conffactor3_scale	-0.004	0.049
+		(0.078)	(0.063)
+			
+Observations		151	151
+R-squared		0.263	0.223
+Mean dep. var		-0.00761	-0.00619
